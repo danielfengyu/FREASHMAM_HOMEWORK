@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\DAL\bin\Debug\Model.pdb
+F:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\DAL.dll
+F:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\DAL.pdb
+F:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\Model.dll
+F:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\Model.pdb
+F:\课程\C#and.NET\EmployeeManage\DAL\obj\Debug\DAL.dll
+F:\课程\C#and.NET\EmployeeManage\DAL\obj\Debug\DAL.pdb
+F:\课程\C#and.NET\EmployeeManage\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\DAL.dll
+H:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\DAL.pdb
+H:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\Model.dll
+H:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\MySql.Data.dll
+H:\课程\C#and.NET\EmployeeManage\DAL\bin\Debug\Model.pdb
+H:\课程\C#and.NET\EmployeeManage\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\课程\C#and.NET\EmployeeManage\DAL\obj\Debug\DAL.dll
+H:\课程\C#and.NET\EmployeeManage\DAL\obj\Debug\DAL.pdb

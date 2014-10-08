@@ -1,0 +1,7 @@
+F:\C#\Vehicle\RentVecicle\obj\Debug\RentVecicle.Form1.resources
+F:\C#\Vehicle\RentVecicle\obj\Debug\RentVecicle.Properties.Resources.resources
+F:\C#\Vehicle\RentVecicle\obj\Debug\RentVecicle.csproj.GenerateResource.Cache
+F:\C#\Vehicle\RentVecicle\bin\Debug\RentVecicle.exe
+F:\C#\Vehicle\RentVecicle\bin\Debug\RentVecicle.pdb
+F:\C#\Vehicle\RentVecicle\obj\Debug\RentVecicle.exe
+F:\C#\Vehicle\RentVecicle\obj\Debug\RentVecicle.pdb

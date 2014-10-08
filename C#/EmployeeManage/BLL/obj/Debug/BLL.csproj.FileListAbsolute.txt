@@ -1,0 +1,27 @@
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\BLL\obj\Debug\BLL.pdb
+F:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\BLL.dll
+F:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\BLL.pdb
+F:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\DAL.dll
+F:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\Model.dll
+F:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\DAL.pdb
+F:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\Model.pdb
+F:\课程\C#and.NET\EmployeeManage\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\课程\C#and.NET\EmployeeManage\BLL\obj\Debug\BLL.dll
+F:\课程\C#and.NET\EmployeeManage\BLL\obj\Debug\BLL.pdb
+H:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\BLL.dll
+H:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\BLL.pdb
+H:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\DAL.dll
+H:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\Model.dll
+H:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\DAL.pdb
+H:\课程\C#and.NET\EmployeeManage\BLL\bin\Debug\Model.pdb
+H:\课程\C#and.NET\EmployeeManage\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\课程\C#and.NET\EmployeeManage\BLL\obj\Debug\BLL.dll
+H:\课程\C#and.NET\EmployeeManage\BLL\obj\Debug\BLL.pdb

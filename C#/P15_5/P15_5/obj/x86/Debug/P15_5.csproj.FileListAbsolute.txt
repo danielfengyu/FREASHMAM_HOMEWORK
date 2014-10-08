@@ -1,0 +1,5 @@
+F:\C#\P15_5\P15_5\bin\Debug\P15_5.exe
+F:\C#\P15_5\P15_5\bin\Debug\P15_5.pdb
+F:\C#\P15_5\P15_5\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\P15_5\P15_5\obj\x86\Debug\P15_5.exe
+F:\C#\P15_5\P15_5\obj\x86\Debug\P15_5.pdb

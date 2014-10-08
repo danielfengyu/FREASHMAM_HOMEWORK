@@ -1,0 +1,3 @@
+F:\C#\ToolBox\ToolBox\obj\x86\Debug\ToolBox.Form1.resources
+F:\C#\ToolBox\ToolBox\obj\x86\Debug\ToolBox.Properties.Resources.resources
+F:\C#\ToolBox\ToolBox\obj\x86\Debug\ToolBox.csproj.GenerateResource.Cache

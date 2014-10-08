@@ -1,0 +1,5 @@
+F:\C#\P17_2\P17_2\bin\P17_2.dll
+F:\C#\P17_2\P17_2\bin\P17_2.pdb
+F:\C#\P17_2\P17_2\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\P17_2\P17_2\obj\Debug\P17_2.dll
+F:\C#\P17_2\P17_2\obj\Debug\P17_2.pdb

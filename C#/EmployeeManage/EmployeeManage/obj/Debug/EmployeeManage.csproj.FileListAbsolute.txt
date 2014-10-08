@@ -1,0 +1,41 @@
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.Form1.resources
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.exe
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.exe
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\EmployeeManage\bin\Debug\DAL.pdb
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.exe
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.pdb
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.exe
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.pdb
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\BLL.dll
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\Model.dll
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\DAL.dll
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\BLL.pdb
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\Model.pdb
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\DAL.pdb
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.csprojResolveAssemblyReference.cache
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.Form1.resources
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.Properties.Resources.resources
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.csproj.GenerateResource.Cache
+F:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.exe.config
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.exe.config
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.exe
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.pdb
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.exe
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\EmployeeManage.pdb
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\BLL.pdb
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\Model.pdb
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\bin\Debug\DAL.pdb
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.csprojResolveAssemblyReference.cache
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.Form1.resources
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.Properties.Resources.resources
+H:\课程\C#and.NET\EmployeeManage\EmployeeManage\obj\Debug\EmployeeManage.csproj.GenerateResource.Cache

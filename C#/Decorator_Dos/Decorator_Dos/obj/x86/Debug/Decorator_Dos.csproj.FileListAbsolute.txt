@@ -1,0 +1,4 @@
+F:\C#\Decorator_Dos\Decorator_Dos\bin\Debug\Decorator_Dos.exe
+F:\C#\Decorator_Dos\Decorator_Dos\bin\Debug\Decorator_Dos.pdb
+F:\C#\Decorator_Dos\Decorator_Dos\obj\x86\Debug\Decorator_Dos.exe
+F:\C#\Decorator_Dos\Decorator_Dos\obj\x86\Debug\Decorator_Dos.pdb

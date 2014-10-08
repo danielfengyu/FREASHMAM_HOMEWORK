@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmployeeManage\Model\obj\Debug\Model.pdb
+F:\课程\C#and.NET\EmployeeManage\Model\bin\Debug\Model.dll
+F:\课程\C#and.NET\EmployeeManage\Model\bin\Debug\Model.pdb
+F:\课程\C#and.NET\EmployeeManage\Model\obj\Debug\Model.dll
+F:\课程\C#and.NET\EmployeeManage\Model\obj\Debug\Model.pdb
+H:\课程\C#and.NET\EmployeeManage\Model\bin\Debug\Model.dll
+H:\课程\C#and.NET\EmployeeManage\Model\bin\Debug\Model.pdb
+H:\课程\C#and.NET\EmployeeManage\Model\obj\Debug\Model.dll
+H:\课程\C#and.NET\EmployeeManage\Model\obj\Debug\Model.pdb

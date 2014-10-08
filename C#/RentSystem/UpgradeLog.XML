@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RentSystem">
+</Property><Property Name="解决方案文件" Value="F:\课程\C#and.NET\RentSystem\RentSystem.sln">
+</Property><Property Name="用户选项文件" Value="F:\课程\C#and.NET\RentSystem\RentSystem.suo">
+</Property><Property Name="Date" Value="2014年3月6日">
+</Property><Property Name="Time" Value="20:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RentSystem.sln" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RentSystem.suo" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem.suo">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\RentSystem.csproj" Description="项目文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\RentSystem.csproj">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Car.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Car.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Form1.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Form1.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Program.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Program.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Truck.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Truck.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Vehicle.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Vehicle.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\VehicleFactory.cs" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\VehicleFactory.cs">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\ClassDiagram1.cd" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Properties\Settings.settings" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Form1.resx" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\Properties\Resources.resx" Description="文件已成功备份为 F:\课程\C#and.NET\RentSystem\Backup\RentSystem\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\RentSystem.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="RentSystem" Source="RentSystem\RentSystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RentSystem.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="RentSystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RentSystem" Source="RentSystem\RentSystem.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

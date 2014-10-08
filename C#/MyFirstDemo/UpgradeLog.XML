@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyFirstDemo">
+</Property><Property Name="解决方案文件" Value="F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo.sln">
+</Property><Property Name="用户选项文件" Value="F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo.suo">
+</Property><Property Name="Date" Value="2014年3月6日">
+</Property><Property Name="Time" Value="21:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyFirstDemo.sln" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MyFirstDemo.suo" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo.suo">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\MyFirstDemo.csproj" Description="项目文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\MyFirstDemo.csproj">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Computer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Computer.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Desktop.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Desktop.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Form1.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Form1.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\NoteBook.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\NoteBook.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Program.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\ClassDiagram1.cd" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Properties\Settings.settings" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Form1.resx" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\Properties\Resources.resx" Description="文件已成功备份为 F:\课程\C#and.NET\MyFirstDemo\Backup\MyFirstDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\MyFirstDemo.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyFirstDemo" Source="MyFirstDemo\MyFirstDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyFirstDemo.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyFirstDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyFirstDemo" Source="MyFirstDemo\MyFirstDemo.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

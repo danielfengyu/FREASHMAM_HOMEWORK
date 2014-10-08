@@ -1,0 +1,4 @@
+F:\C#\Company\Company\bin\Debug\Company.exe
+F:\C#\Company\Company\bin\Debug\Company.pdb
+F:\C#\Company\Company\obj\x86\Debug\Company.exe
+F:\C#\Company\Company\obj\x86\Debug\Company.pdb

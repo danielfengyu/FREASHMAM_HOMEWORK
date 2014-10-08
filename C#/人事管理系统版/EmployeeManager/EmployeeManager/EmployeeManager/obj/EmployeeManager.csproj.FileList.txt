@@ -1,0 +1,8 @@
+bin\Debug\EmployeeManager.exe
+bin\Debug\EmployeeManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EmployeeManager.Form1.resources
+obj\Debug\EmployeeManager.Properties.Resources.resources
+obj\Debug\EmployeeManager.csproj.GenerateResource.Cache
+obj\Debug\EmployeeManager.exe
+obj\Debug\EmployeeManager.pdb

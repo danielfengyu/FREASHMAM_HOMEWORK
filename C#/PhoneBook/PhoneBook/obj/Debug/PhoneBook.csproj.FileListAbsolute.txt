@@ -1,0 +1,16 @@
+D:\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\PhoneBook\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+F:\课程\C#and.NET\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+F:\课程\C#and.NET\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+F:\课程\C#and.NET\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+F:\课程\C#and.NET\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+F:\课程\C#and.NET\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+F:\课程\C#and.NET\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+F:\课程\C#and.NET\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+F:\课程\C#and.NET\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache

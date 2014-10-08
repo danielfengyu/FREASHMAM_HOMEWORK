@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlushBird2", "FlushBird2\FlushBird2.csproj", "{23E8105A-56B1-4308-ADD2-8C97B877511C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E8105A-56B1-4308-ADD2-8C97B877511C}.Debug|x86.ActiveCfg = Debug|x86
+		{23E8105A-56B1-4308-ADD2-8C97B877511C}.Debug|x86.Build.0 = Debug|x86
+		{23E8105A-56B1-4308-ADD2-8C97B877511C}.Release|x86.ActiveCfg = Release|x86
+		{23E8105A-56B1-4308-ADD2-8C97B877511C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

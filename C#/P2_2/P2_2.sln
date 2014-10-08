@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_2", "P2_2\P2_2.csproj", "{7E70FE4D-3B9D-4E3B-8599-74CF6AD92F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E70FE4D-3B9D-4E3B-8599-74CF6AD92F3D}.Debug|x86.ActiveCfg = Debug|x86
+		{7E70FE4D-3B9D-4E3B-8599-74CF6AD92F3D}.Debug|x86.Build.0 = Debug|x86
+		{7E70FE4D-3B9D-4E3B-8599-74CF6AD92F3D}.Release|x86.ActiveCfg = Release|x86
+		{7E70FE4D-3B9D-4E3B-8599-74CF6AD92F3D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EmployeeManage">
+</Property><Property Name="解决方案文件" Value="F:\课程\C#and.NET\EmployeeManage\EmployeeManage.sln">
+</Property><Property Name="用户选项文件" Value="F:\课程\C#and.NET\EmployeeManage\EmployeeManage.suo">
+</Property><Property Name="Date" Value="2014年3月19日">
+</Property><Property Name="Time" Value="19:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EmployeeManage.sln" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EmployeeManage.suo" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage.suo">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\EmployeeManage.csproj" Description="项目文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\EmployeeManage.csproj">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Form1.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Form1.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Form1.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Program.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Program.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Properties\Settings.settings" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Form1.resx" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Form1.resx">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\Properties\Resources.resx" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\EmployeeManage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\EmployeeManage.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="EmployeeManage" Source="EmployeeManage\EmployeeManage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Departments.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\Model\Departments.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Employees.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\Model\Employees.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DBHelper.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\DAL\DBHelper.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\EmployeeService.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\DAL\EmployeeService.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\EmployeeManager.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\BLL\EmployeeManager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\课程\C#and.NET\EmployeeManage\Backup\BLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EmployeeManage.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="EmployeeManage.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EmployeeManage" Source="EmployeeManage\EmployeeManage.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

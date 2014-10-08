@@ -1,0 +1,6 @@
+F:\C#\ConnectionCommand\ConnectionCommand\bin\Debug\ConnectionCommand.exe
+F:\C#\ConnectionCommand\ConnectionCommand\bin\Debug\ConnectionCommand.pdb
+F:\C#\ConnectionCommand\ConnectionCommand\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\ConnectionCommand\ConnectionCommand\obj\x86\Debug\ConnectionCommand.exe
+F:\C#\ConnectionCommand\ConnectionCommand\obj\x86\Debug\ConnectionCommand.pdb
+F:\C#\ConnectionCommand\ConnectionCommand\bin\Debug\ConnectionCommand.exe.config

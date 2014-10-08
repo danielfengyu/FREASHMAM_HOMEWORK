@@ -1,0 +1,5 @@
+F:\C#\P16_8\P16_8\bin\Debug\P16_8.exe
+F:\C#\P16_8\P16_8\bin\Debug\P16_8.pdb
+F:\C#\P16_8\P16_8\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\P16_8\P16_8\obj\x86\Debug\P16_8.exe
+F:\C#\P16_8\P16_8\obj\x86\Debug\P16_8.pdb

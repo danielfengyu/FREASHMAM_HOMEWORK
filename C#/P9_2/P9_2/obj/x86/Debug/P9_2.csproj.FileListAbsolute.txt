@@ -1,0 +1,8 @@
+F:\C#\P9_2\P9_2\bin\Debug\P9_2.exe
+F:\C#\P9_2\P9_2\bin\Debug\P9_2.pdb
+F:\C#\P9_2\P9_2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\P9_2\P9_2\obj\x86\Debug\P9_2.Properties.Resources.resources
+F:\C#\P9_2\P9_2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#\P9_2\P9_2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\C#\P9_2\P9_2\obj\x86\Debug\P9_2.exe
+F:\C#\P9_2\P9_2\obj\x86\Debug\P9_2.pdb

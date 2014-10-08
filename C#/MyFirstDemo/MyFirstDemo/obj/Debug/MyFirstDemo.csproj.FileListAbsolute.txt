@@ -1,0 +1,15 @@
+D:\maruixin\MyFirstDemo\MyFirstDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\maruixin\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.Properties.Resources.resources
+D:\maruixin\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.csproj.GenerateResource.Cache
+D:\maruixin\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.exe
+D:\maruixin\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.pdb
+D:\maruixin\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.exe
+D:\maruixin\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.pdb
+D:\maruixin\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.Form1.resources
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.exe
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.pdb
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.exe
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\bin\Debug\MyFirstDemo.pdb
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.Form1.resources
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.Properties.Resources.resources
+F:\课程\C#and.NET\MyFirstDemo\MyFirstDemo\obj\Debug\MyFirstDemo.csproj.GenerateResource.Cache

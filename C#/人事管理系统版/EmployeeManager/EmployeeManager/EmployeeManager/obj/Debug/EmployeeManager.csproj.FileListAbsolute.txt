@@ -1,0 +1,17 @@
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Form1.resources
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Properties.Resources.resources
+D:\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.GenerateResource.Cache
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Form1.resources
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Properties.Resources.resources
+F:\课程\C#and.NET\人事管理系统版\EmployeeManager\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.GenerateResource.Cache

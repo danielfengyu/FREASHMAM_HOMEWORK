@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="T:P18_3.Program">
+            <summary>
+            主程序
+            </summary>
+        </member>
+        <member name="T:P18_3.Contact">
+            <summary>
+            联系人类型
+            </summary>
+        </member>
+        <member name="M:P18_3.Contact.#ctor(System.String)">
+            <summary>
+            创建指定姓名的联系人对象
+            </summary>
+            <param name="name">联系人姓名</param>
+        </member>
+        <member name="M:P18_3.Contact.ToString">
+            <summary>
+            联系人的汇总信息描述
+            </summary>
+        </member>
+        <member name="P:P18_3.Contact.Name">
+            <summary>
+            读取联系人姓名
+            </summary>
+        </member>
+        <member name="P:P18_3.Contact.Item(System.Int32)">
+            <summary>
+            联系人号码的索引函数
+            </summary>
+            <param name="index">0—手机，1—家庭电话，2-办公室电话</param>
+            <returns>指定的电话号码</returns>
+        </member>
+        <member name="P:P18_3.Contact.Address">
+            <summary>
+            读取或设置联系人地址
+            </summary>
+        </member>
+    </members>
+</doc>

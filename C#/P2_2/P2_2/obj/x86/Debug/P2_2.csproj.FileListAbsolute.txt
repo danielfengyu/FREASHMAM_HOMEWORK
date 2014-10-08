@@ -1,0 +1,9 @@
+F:\C#\P2_2\P2_2\bin\Debug\P2_2.exe
+F:\C#\P2_2\P2_2\bin\Debug\P2_2.pdb
+F:\C#\P2_2\P2_2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\P2_2\P2_2\obj\x86\Debug\P2_2.exe
+F:\C#\P2_2\P2_2\obj\x86\Debug\P2_2.pdb
+F:\课程\C#\P2_2\P2_2\obj\x86\Debug\P2_2.exe
+F:\课程\C#\P2_2\P2_2\obj\x86\Debug\P2_2.pdb
+F:\课程\C#\P2_2\P2_2\bin\Debug\P2_2.exe
+F:\课程\C#\P2_2\P2_2\bin\Debug\P2_2.pdb

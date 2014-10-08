@@ -1,0 +1,7 @@
+F:\C#\Person\Person\bin\Debug\Person.exe
+F:\C#\Person\Person\bin\Debug\Person.pdb
+F:\C#\Person\Person\obj\x86\Debug\Person.Form1.resources
+F:\C#\Person\Person\obj\x86\Debug\Person.Properties.Resources.resources
+F:\C#\Person\Person\obj\x86\Debug\Person.csproj.GenerateResource.Cache
+F:\C#\Person\Person\obj\x86\Debug\Person.exe
+F:\C#\Person\Person\obj\x86\Debug\Person.pdb

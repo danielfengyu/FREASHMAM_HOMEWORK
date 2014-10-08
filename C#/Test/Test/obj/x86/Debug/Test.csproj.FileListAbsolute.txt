@@ -1,0 +1,6 @@
+F:\C#\Test\Test\bin\Debug\Test.exe
+F:\C#\Test\Test\bin\Debug\Test.pdb
+F:\C#\Test\Test\obj\x86\Debug\Test.Properties.Resources.resources
+F:\C#\Test\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+F:\C#\Test\Test\obj\x86\Debug\Test.exe
+F:\C#\Test\Test\obj\x86\Debug\Test.pdb

@@ -1,0 +1,8 @@
+F:\C#\Cash\Cash\obj\x86\Debug\Cash.csprojResolveAssemblyReference.cache
+F:\C#\Cash\Cash\obj\x86\Debug\Cash.Form1.resources
+F:\C#\Cash\Cash\obj\x86\Debug\Cash.Properties.Resources.resources
+F:\C#\Cash\Cash\obj\x86\Debug\Cash.csproj.GenerateResource.Cache
+F:\C#\Cash\Cash\bin\Debug\Cash.exe
+F:\C#\Cash\Cash\bin\Debug\Cash.pdb
+F:\C#\Cash\Cash\obj\x86\Debug\Cash.exe
+F:\C#\Cash\Cash\obj\x86\Debug\Cash.pdb

@@ -1,0 +1,3 @@
+F:\C#\FlushBird\FlushBird\obj\x86\Debug\FlushBird.Form1.resources
+F:\C#\FlushBird\FlushBird\obj\x86\Debug\FlushBird.Properties.Resources.resources
+F:\C#\FlushBird\FlushBird\obj\x86\Debug\FlushBird.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+D:\EmpManage\EmpManage\bin\Debug\EmpManage.exe
+D:\EmpManage\EmpManage\bin\Debug\EmpManage.pdb
+D:\EmpManage\EmpManage\obj\Debug\ResolveAssemblyReference.cache
+D:\EmpManage\EmpManage\obj\Debug\EmpManage.Form1.resources
+D:\EmpManage\EmpManage\obj\Debug\EmpManage.Properties.Resources.resources
+D:\EmpManage\EmpManage\obj\Debug\EmpManage.csproj.GenerateResource.Cache
+D:\EmpManage\EmpManage\obj\Debug\EmpManage.exe
+D:\EmpManage\EmpManage\obj\Debug\EmpManage.pdb
+D:\EmpManage\EmpManage\obj\Debug\EmpManage.Form2.resources
+F:\课程\C#and.NET\EmpManage\EmpManage\obj\Debug\EmpManage.exe
+F:\课程\C#and.NET\EmpManage\EmpManage\obj\Debug\EmpManage.pdb

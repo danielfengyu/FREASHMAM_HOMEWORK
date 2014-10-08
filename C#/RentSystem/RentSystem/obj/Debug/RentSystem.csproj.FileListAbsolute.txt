@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\bin\Debug\RentSystem.exe
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\bin\Debug\RentSystem.pdb
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\obj\Debug\RentSystem.Form1.resources
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\obj\Debug\RentSystem.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\obj\Debug\RentSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\obj\Debug\RentSystem.exe
+C:\Documents and Settings\Administrator\桌面\RentSystem\RentSystem\obj\Debug\RentSystem.pdb
+F:\课程\C#and.NET\RentSystem\RentSystem\obj\Debug\RentSystem.exe
+F:\课程\C#and.NET\RentSystem\RentSystem\obj\Debug\RentSystem.pdb
+F:\课程\C#and.NET\RentSystem\RentSystem\bin\Debug\RentSystem.exe
+F:\课程\C#and.NET\RentSystem\RentSystem\bin\Debug\RentSystem.pdb
+F:\课程\C#and.NET\RentSystem\RentSystem\obj\Debug\RentSystem.Form1.resources
+F:\课程\C#and.NET\RentSystem\RentSystem\obj\Debug\RentSystem.Properties.Resources.resources
+F:\课程\C#and.NET\RentSystem\RentSystem\obj\Debug\RentSystem.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\PhoneBook\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

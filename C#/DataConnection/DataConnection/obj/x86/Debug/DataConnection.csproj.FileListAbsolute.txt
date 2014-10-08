@@ -1,0 +1,5 @@
+F:\C#\DataConnection\DataConnection\bin\Debug\DataConnection.exe
+F:\C#\DataConnection\DataConnection\bin\Debug\DataConnection.pdb
+F:\C#\DataConnection\DataConnection\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\DataConnection\DataConnection\obj\x86\Debug\DataConnection.exe
+F:\C#\DataConnection\DataConnection\obj\x86\Debug\DataConnection.pdb

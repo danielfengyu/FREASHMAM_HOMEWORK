@@ -1,0 +1,4 @@
+F:\C#\Caculator\Caculator\bin\Debug\Caculator.exe
+F:\C#\Caculator\Caculator\bin\Debug\Caculator.pdb
+F:\C#\Caculator\Caculator\obj\x86\Debug\Caculator.exe
+F:\C#\Caculator\Caculator\obj\x86\Debug\Caculator.pdb

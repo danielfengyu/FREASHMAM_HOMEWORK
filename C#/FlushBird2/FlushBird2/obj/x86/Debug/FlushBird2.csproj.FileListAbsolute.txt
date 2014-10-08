@@ -1,0 +1,7 @@
+F:\C#\FlushBird2\FlushBird2\bin\Debug\FlushBird2.exe
+F:\C#\FlushBird2\FlushBird2\bin\Debug\FlushBird2.pdb
+F:\C#\FlushBird2\FlushBird2\obj\x86\Debug\FlushBird2.Form1.resources
+F:\C#\FlushBird2\FlushBird2\obj\x86\Debug\FlushBird2.Properties.Resources.resources
+F:\C#\FlushBird2\FlushBird2\obj\x86\Debug\FlushBird2.csproj.GenerateResource.Cache
+F:\C#\FlushBird2\FlushBird2\obj\x86\Debug\FlushBird2.exe
+F:\C#\FlushBird2\FlushBird2\obj\x86\Debug\FlushBird2.pdb
